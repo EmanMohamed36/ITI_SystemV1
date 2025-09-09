@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RouteAcademy\\EFCore\\Sessions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\session01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\session01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902034213_Migration01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:session01\\Data\\Migrations\\20250902034213_Migration01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\migrations\\20250902084205_apifortables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\migrations\\20250902084205_apifortables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\migrations\\20250902083753_instructortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\migrations\\20250902083753_instructortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\migrations\\20250902083729_departmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\migrations\\20250902083729_departmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\migrations\\20250902083658_topictable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\migrations\\20250902083658_topictable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\migrations\\20250902083522_coursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\migrations\\20250902083522_coursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|f:\\routeacademy\\efcore\\sessions\\session01\\data\\migrations\\20250902083414_studenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3BA59-2F6F-4099-A798-3AF4922A76A6}|session01\\session01.csproj|solutionrelative:session01\\data\\migrations\\20250902083414_studenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "session01",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\session01.csproj",
+              "RelativeDocumentMoniker": "session01\\session01.csproj",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\session01.csproj",
+              "RelativeToolTip": "session01\\session01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T17:40:28.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250902084205_APIForTables.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902084205_APIForTables.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Migrations\\20250902084205_APIForTables.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902084205_APIForTables.cs",
+              "RelativeToolTip": "session01\\Data\\Migrations\\20250902084205_APIForTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:42:05.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250902083753_InstructorTable.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083753_InstructorTable.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Migrations\\20250902083753_InstructorTable.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083753_InstructorTable.cs",
+              "RelativeToolTip": "session01\\Data\\Migrations\\20250902083753_InstructorTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:37:53.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250902083729_DepartmentTable.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083729_DepartmentTable.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Migrations\\20250902083729_DepartmentTable.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083729_DepartmentTable.cs",
+              "RelativeToolTip": "session01\\Data\\Migrations\\20250902083729_DepartmentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:37:29.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250902083658_TopicTable.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083658_TopicTable.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Migrations\\20250902083658_TopicTable.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083658_TopicTable.cs",
+              "RelativeToolTip": "session01\\Data\\Migrations\\20250902083658_TopicTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:36:59.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250902083522_CourseTable.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083522_CourseTable.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Migrations\\20250902083522_CourseTable.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083522_CourseTable.cs",
+              "RelativeToolTip": "session01\\Data\\Migrations\\20250902083522_CourseTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:35:22.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250902083414_StudentTable.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083414_StudentTable.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Migrations\\20250902083414_StudentTable.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902083414_StudentTable.cs",
+              "RelativeToolTip": "session01\\Data\\Migrations\\20250902083414_StudentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:34:14.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Models\\Course_Inst.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Course_Inst.cs",
+              "RelativeToolTip": "session01\\Data\\Models\\Course_Inst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:30:16.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Models\\Stud_Course.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Stud_Course.cs",
+              "RelativeToolTip": "session01\\Data\\Models\\Stud_Course.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:29:40.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Models\\Instructor.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Instructor.cs",
+              "RelativeToolTip": "session01\\Data\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:29:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Models\\Department.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Department.cs",
+              "RelativeToolTip": "session01\\Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:29:23.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Models\\Topic.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Topic.cs",
+              "RelativeToolTip": "session01\\Data\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:29:12.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Models\\Course.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "session01\\Data\\Models\\Course.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:28:59.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Models\\Student.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Models\\Student.cs",
+              "RelativeToolTip": "session01\\Data\\Models\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:28:45.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250902034213_Migration01.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902034213_Migration01.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\Migrations\\20250902034213_Migration01.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\Migrations\\20250902034213_Migration01.cs",
+              "RelativeToolTip": "session01\\Data\\Migrations\\20250902034213_Migration01.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:42:13.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "session01\\Data\\CompanyDbContext.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Data\\CompanyDbContext.cs",
+              "RelativeToolTip": "session01\\Data\\CompanyDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:45:22.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Program.cs",
+              "RelativeDocumentMoniker": "session01\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\EFCore\\Sessions\\session01\\Program.cs",
+              "RelativeToolTip": "session01\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:43:55.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
